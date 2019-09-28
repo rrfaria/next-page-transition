@@ -1,0 +1,15 @@
+@font-face {
+	font-family: 'Josefin Sans';
+	src: url('/static/JosefinSans-Regular.ttf');
+ }
+
+ @font-face {
+	font-family: 'Josefin Sans';
+	src: url('/static/JosefinSans-Bold.ttf');
+	font-weight: bold;
+ }
+
+ @font-face {
+	font-family: 'Playfair Display';
+	src: url('/static/PlayfairDisplay-Regular.ttf');
+ }
